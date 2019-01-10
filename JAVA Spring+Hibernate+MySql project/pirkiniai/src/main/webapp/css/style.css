@@ -1,0 +1,33 @@
+.width_100 {
+	width: 100%;
+}
+
+h1 {
+	text-align: center;
+}
+
+.myTable {
+	background-color: #75db1b;
+	border: 2px solid gray;
+ }
+
+body {
+	background-image: url("../img/myBg.jpg");
+	font-family: 'Sedgwick Ave', cursive;
+	font-size: 18px;
+    -webkit-text-fill-color: red;
+    -webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-color: black;
+}
+
+.myPad {
+	margin-bottom: 10rem;
+}
+
+.mySelect {
+	margin-bottom: 25px;
+}
+
+.myRed {
+	color: red !important;
+}
